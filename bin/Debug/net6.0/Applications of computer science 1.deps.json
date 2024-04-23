@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Applications of computer science 1/1.0.0": {
+        "runtime": {
+          "Applications of computer science 1.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Applications of computer science 1/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

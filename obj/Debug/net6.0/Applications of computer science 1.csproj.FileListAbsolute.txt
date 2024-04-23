@@ -1,0 +1,43 @@
+D:\GitHub\C#\Applications of computer science 1\bin\Debug\net6.0\Applications of computer science 1.exe
+D:\GitHub\C#\Applications of computer science 1\bin\Debug\net6.0\Applications of computer science 1.deps.json
+D:\GitHub\C#\Applications of computer science 1\bin\Debug\net6.0\Applications of computer science 1.runtimeconfig.json
+D:\GitHub\C#\Applications of computer science 1\bin\Debug\net6.0\Applications of computer science 1.dll
+D:\GitHub\C#\Applications of computer science 1\bin\Debug\net6.0\Applications of computer science 1.pdb
+D:\GitHub\C#\Applications of computer science 1\obj\Debug\net6.0\Applications of computer science 1.csproj.AssemblyReference.cache
+D:\GitHub\C#\Applications of computer science 1\obj\Debug\net6.0\Applications of computer science 1.GeneratedMSBuildEditorConfig.editorconfig
+D:\GitHub\C#\Applications of computer science 1\obj\Debug\net6.0\Applications of computer science 1.AssemblyInfoInputs.cache
+D:\GitHub\C#\Applications of computer science 1\obj\Debug\net6.0\Applications of computer science 1.AssemblyInfo.cs
+D:\GitHub\C#\Applications of computer science 1\obj\Debug\net6.0\Applications of computer science 1.csproj.CoreCompileInputs.cache
+D:\GitHub\C#\Applications of computer science 1\obj\Debug\net6.0\Applications of computer science 1.dll
+D:\GitHub\C#\Applications of computer science 1\obj\Debug\net6.0\refint\Applications of computer science 1.dll
+D:\GitHub\C#\Applications of computer science 1\obj\Debug\net6.0\Applications of computer science 1.pdb
+D:\GitHub\C#\Applications of computer science 1\obj\Debug\net6.0\Applications of computer science 1.genruntimeconfig.cache
+D:\GitHub\C#\Applications of computer science 1\obj\Debug\net6.0\ref\Applications of computer science 1.dll
+D:\GitHub\C#\Applicationsofcomputerscience1\bin\Debug\net6.0\Applications of computer science 1.exe
+D:\GitHub\C#\Applicationsofcomputerscience1\bin\Debug\net6.0\Applications of computer science 1.deps.json
+D:\GitHub\C#\Applicationsofcomputerscience1\bin\Debug\net6.0\Applications of computer science 1.runtimeconfig.json
+D:\GitHub\C#\Applicationsofcomputerscience1\bin\Debug\net6.0\Applications of computer science 1.dll
+D:\GitHub\C#\Applicationsofcomputerscience1\bin\Debug\net6.0\Applications of computer science 1.pdb
+D:\GitHub\C#\Applicationsofcomputerscience1\obj\Debug\net6.0\Applications of computer science 1.GeneratedMSBuildEditorConfig.editorconfig
+D:\GitHub\C#\Applicationsofcomputerscience1\obj\Debug\net6.0\Applications of computer science 1.AssemblyInfoInputs.cache
+D:\GitHub\C#\Applicationsofcomputerscience1\obj\Debug\net6.0\Applications of computer science 1.AssemblyInfo.cs
+D:\GitHub\C#\Applicationsofcomputerscience1\obj\Debug\net6.0\Applications of computer science 1.csproj.CoreCompileInputs.cache
+D:\GitHub\C#\Applicationsofcomputerscience1\obj\Debug\net6.0\Applications of computer science 1.dll
+D:\GitHub\C#\Applicationsofcomputerscience1\obj\Debug\net6.0\refint\Applications of computer science 1.dll
+D:\GitHub\C#\Applicationsofcomputerscience1\obj\Debug\net6.0\Applications of computer science 1.pdb
+D:\GitHub\C#\Applicationsofcomputerscience1\obj\Debug\net6.0\Applications of computer science 1.genruntimeconfig.cache
+D:\GitHub\C#\Applicationsofcomputerscience1\obj\Debug\net6.0\ref\Applications of computer science 1.dll
+D:\GitHub\Csharp\Applicationsofcomputerscience1\bin\Debug\net6.0\Applications of computer science 1.exe
+D:\GitHub\Csharp\Applicationsofcomputerscience1\bin\Debug\net6.0\Applications of computer science 1.deps.json
+D:\GitHub\Csharp\Applicationsofcomputerscience1\bin\Debug\net6.0\Applications of computer science 1.runtimeconfig.json
+D:\GitHub\Csharp\Applicationsofcomputerscience1\bin\Debug\net6.0\Applications of computer science 1.dll
+D:\GitHub\Csharp\Applicationsofcomputerscience1\bin\Debug\net6.0\Applications of computer science 1.pdb
+D:\GitHub\Csharp\Applicationsofcomputerscience1\obj\Debug\net6.0\Applications of computer science 1.GeneratedMSBuildEditorConfig.editorconfig
+D:\GitHub\Csharp\Applicationsofcomputerscience1\obj\Debug\net6.0\Applications of computer science 1.AssemblyInfoInputs.cache
+D:\GitHub\Csharp\Applicationsofcomputerscience1\obj\Debug\net6.0\Applications of computer science 1.AssemblyInfo.cs
+D:\GitHub\Csharp\Applicationsofcomputerscience1\obj\Debug\net6.0\Applications of computer science 1.csproj.CoreCompileInputs.cache
+D:\GitHub\Csharp\Applicationsofcomputerscience1\obj\Debug\net6.0\Applications of computer science 1.dll
+D:\GitHub\Csharp\Applicationsofcomputerscience1\obj\Debug\net6.0\refint\Applications of computer science 1.dll
+D:\GitHub\Csharp\Applicationsofcomputerscience1\obj\Debug\net6.0\Applications of computer science 1.pdb
+D:\GitHub\Csharp\Applicationsofcomputerscience1\obj\Debug\net6.0\Applications of computer science 1.genruntimeconfig.cache
+D:\GitHub\Csharp\Applicationsofcomputerscience1\obj\Debug\net6.0\ref\Applications of computer science 1.dll
